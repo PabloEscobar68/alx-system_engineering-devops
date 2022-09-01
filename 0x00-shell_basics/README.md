@@ -6,3 +6,5 @@ Display current directory contents, including hidden files in long format
 Display all files with user ID in numerical order
 Creats a directory in another directory
 Moving files to directory
+Deleting files
+Deleting directories
