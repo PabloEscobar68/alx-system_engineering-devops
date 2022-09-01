@@ -5,3 +5,4 @@ Display current directory contents in a long format
 Display current directory contents, including hidden files in long format
 Display all files with user ID in numerical order
 Creats a directory in another directory
+Moving files to directory
