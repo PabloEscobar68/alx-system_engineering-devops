@@ -1,3 +1,1 @@
-Print working directory
-List files
-back to home
+script that changes the working directory to the user’s home directory
