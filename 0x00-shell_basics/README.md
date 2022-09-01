@@ -8,3 +8,4 @@ Creats a directory in another directory
 Moving files to directory
 Deleting files
 Deleting directories
+changes the working directory to the previous one
