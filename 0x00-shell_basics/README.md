@@ -10,3 +10,4 @@ Deleting files
 Deleting directories
 changes the working directory to the previous one
 Lists all files including boot directory in order
+Lists file type
